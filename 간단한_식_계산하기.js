@@ -1,7 +1,7 @@
 
-let binomial = "43 + 12"
-// let binomial = "0 - 7777"
-// let binomial = "40000 * 40000"
+const binomial = "43 + 12"
+// const binomial = "0 - 7777"
+// const binomial = "40000 * 40000"
 
 function solution(binomial) {
     const [num1, op, num2] = binomial.split(' ');

@@ -1,6 +1,6 @@
 
 
-let myString = "oxooxoxxox";
+const myString = "oxooxoxxox";
 // let myString = "xabcxdefxghi";
 
 function solution(myString) {

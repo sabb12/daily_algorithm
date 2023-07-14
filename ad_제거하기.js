@@ -1,5 +1,5 @@
 
-let strArr = ["and","notad","abcd"];
+const strArr = ["and","notad","abcd"];
 
 function solution(strArr) {
     var answer = [];

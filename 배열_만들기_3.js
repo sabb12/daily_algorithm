@@ -1,9 +1,9 @@
 
-let arr = [1,2,3,4,5];
-let intervals = [[1, 3], [0, 4]];
+const arr = [1,2,3,4,5];
+const intervals = [[1, 3], [0, 4]];
 
 function solution(arr, intervals) {
-    var answer = [];
+
     // intervals = [[a1, b1], [a2, b2]]
     // 구간1 = interval[0] = [1,3]
     // 구간2 = interval[1] = [0,4]

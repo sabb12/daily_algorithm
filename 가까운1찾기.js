@@ -5,7 +5,6 @@ const arr = [0, 0, 0, 1];
 
 
 function solution(arr, idx) {
-    var answer = 0;
     
     for(let i = idx; i < arr.length; i++){
         if(arr[i] >= 1){

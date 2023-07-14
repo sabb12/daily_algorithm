@@ -1,5 +1,5 @@
 
-let order = 3;
+const order = 3;
 // let order = 29423;
 
 function solution(order) {
