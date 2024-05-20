@@ -1,0 +1,6 @@
+function solution(num_list, n) {
+
+    let answer = 0;
+    
+    return num_list.slice(n).concat(num_list.slice(0, n));
+}
